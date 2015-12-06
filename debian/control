@@ -10,6 +10,6 @@ Vcs-Browser: https://github.com/crowdos/crowdos-config-n950-n9
 Package: crowdos-config-n950-n9
 Provides: crowdos-config
 Architecture: all
-Depends: ${misc:Depends}, linux-image-n950-n9, whynot
+Depends: ${misc:Depends}, linux-image-n950-n9
 Description: Basic configurtion for N9/50
  Basic files and configuration needed for N9/50
