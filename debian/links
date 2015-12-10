@@ -1,3 +1,2 @@
 boot/vmlinuz boot/bzImage
 sbin/runit-init sbin/preinit
-lib/ld-linux-armhf.so.3 lib/ld-linux.so.3
