@@ -15,5 +15,6 @@ Depends: ${misc:Depends},
          libpvr-ti-omap3-sgx-core,
          libqt5egldeviceintegration5omapfb,
          crowdos-adaptation-n950-n9,
+         hwhal-n950-n9
 Description: Basic configurtion for N9/50
  Basic files and configuration needed for N9/50
